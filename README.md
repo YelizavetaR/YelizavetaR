@@ -1,6 +1,6 @@
 ![](https://github.com/YelizavetaR/YelizavetaR/blob/master/background.jpg)
 
-### Overview
+### About Yelizaveta
 
 `Yelizaveta` is a highly efficient and reliable professional who possesses a broad skill set focused on web and mobile application development, and worked on a range of products with clients from working on scalability obstacles in production engineering at `Tensail Analytics`, `JustGetvisible`, `Simakos`, and `Sucsellful` with the objective to develop programming solutions and launch new applications. `Yelizaveta` focus on creating code that is easy to read, maintain, and test to optimize the developer’s experience and optimizing the overall functionality and aesthetics of the applications themselves.
 
