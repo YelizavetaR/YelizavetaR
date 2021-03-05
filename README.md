@@ -1,4 +1,4 @@
-![](https://github.com/YelizavetaR/YelizavetaR/blob/master/background.jpg)
+![](https://github.com/YelizavetaR/YelizavetaR/blob/master/background1.jpg)
 
 ### About Yelizaveta
 
